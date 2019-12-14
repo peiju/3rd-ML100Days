@@ -7,3 +7,7 @@ homework/result/D49_titanic_blending.csv
 homework/result/D49_titanic_gdbt.csv
 homework/result/D49_titanic_lr.csv
 homework/result/D49_titanic_rf.csv
+homework/result/D50_titanic_gdbt.csv
+homework/result/D50_titanic_lr.csv
+homework/result/D50_titanic_rf.csv
+homework/result/D50_titanic_stacking.csv
