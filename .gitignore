@@ -12,3 +12,4 @@ homework/result/D50_titanic_lr.csv
 homework/result/D50_titanic_rf.csv
 homework/result/D50_titanic_stacking.csv
 homework/final
+homework/SaveModel
